@@ -1,4 +1,4 @@
-# Using DOIs and ORCID Ids to promote 
+# Using DOIs 
 
 ## Help people identify you and your work by using ORCID Id's and DOI's for your research work.
 
